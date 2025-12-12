@@ -10,7 +10,7 @@
 #include "motores.h"
 
 // ============================================================================
-//                          CONFIGURACIÓgdhdhdhfhhfN GENERAL
+//                          CdgfONFIGURACIÓgdhdhdhfhhfN GENERAL
 // ============================================================================
 #define ANGLES_ARE_DEGREES 1              // 1 si los ángulos y tasas vienen en grados
 
